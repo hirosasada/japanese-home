@@ -13,8 +13,8 @@
    
 **経歴**  
 - [学歴](https://hirosasada.github.io/rireki/)　　  
-- [職歴](https://hirosasada.github.io/rireki/)　　  
-　　
+- [職歴](https://hirosasada.github.io/rireki/)  
+  
 **研究業績**  
 - [業績一覧](https://hirosasada.github.io/kenkyu/)  
   Curriculum Vitae  
