@@ -7,9 +7,9 @@
 - 専門分野：
     - 日本および東アジア政治経済, 産業・貿易政策, 農業政策   
 - 主な著作：  
- - [『農業保護政策の起源：近代日本農政の発展 1874~1945』（勁草書房, 2018年）](https://www.amazon.co.jp/dp/4326351772)     
- - [『*The Evolution of the Japanese Developmental State*』(Routledge, 2012年)](https://read.amazon.com/kp/embed?asin=B0094GB17M&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_Ck6zCb1GPP3ZB)    
- - [『制度発展と政策アイディア』（木鐸社, 2011年）](https://www.amazon.co.jp/dp/4833224488)  
+    - [『農業保護政策の起源：近代日本農政の発展 1874~1945』（勁草書房, 2018年）](https://www.amazon.co.jp/dp/4326351772)     
+    - [『*The Evolution of the Japanese Developmental State*』(Routledge, 2012年)](https://read.amazon.com/kp/embed?asin=B0094GB17M&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_Ck6zCb1GPP3ZB)    
+    - [『制度発展と政策アイディア』（木鐸社, 2011年）](https://www.amazon.co.jp/dp/4833224488)  
    
 **経歴**  
 - [学歴](https://hirosasada.github.io/rireki/)　　  
