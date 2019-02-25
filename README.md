@@ -11,8 +11,10 @@
  [『*The Evolution of the Japanese Developmental State*』(Routledge, 2012年)](https://read.amazon.com/kp/embed?asin=B0094GB17M&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_Ck6zCb1GPP3ZB)    
  [『制度発展と政策アイディア』（木鐸社, 2011年）](https://www.amazon.co.jp/dp/4833224488)  
    
-**[学歴・職歴](https://hirosasada.github.io/rireki/)**  
-  
+**[経歴]**  
+-[学位](https://hirosasada.github.io/rireki/)　　  
+-[職歴](https://hirosasada.github.io/rireki/)　　  
+　　
 **研究業績**  
 - [業績一覧](https://hirosasada.github.io/kenkyu/)  
   Curriculum Vitae  
