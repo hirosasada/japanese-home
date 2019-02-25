@@ -26,6 +26,6 @@
 - [北海道大学](https://www.hokudai.ac.jp)  
 - [北海道大学現代日本学プログラム課程](https://www.oia.hokudai.ac.jp/mjsp/) 
   
-[Top](https://hirosasada.github.io/japanese-home/)↑  
+[Top](https://hirosasada.github.io/japanese-home)↑  
   
   
