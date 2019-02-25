@@ -17,7 +17,7 @@
   
 **研究業績**  
 - [業績一覧](https://hirosasada.github.io/kenkyu/)  
-  Curriculum Vitae  
+- Curriculum Vitae  
   
 **リンク**  
 - [北海道大学](https://www.hokudai.ac.jp)  
