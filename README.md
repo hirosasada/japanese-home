@@ -12,7 +12,7 @@
  [『制度発展と政策アイディア』（木鐸社, 2011年）](https://www.amazon.co.jp/dp/4833224488)  
    
 **[経歴]**  
--[学位](https://hirosasada.github.io/rireki/)　　  
+-[学歴](https://hirosasada.github.io/rireki/blob/master/index.md#%E5%AD%A6%E6%AD%B4)　　  
 -[職歴](https://hirosasada.github.io/rireki/)　　  
 　　
 **研究業績**  
