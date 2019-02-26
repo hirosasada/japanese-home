@@ -20,11 +20,12 @@
 - [職歴](https://hirosasada.github.io/rireki/#職歴)  
   
 **研究業績**  
-![book cover web](https://user-images.githubusercontent.com/47653058/53387325-bd617000-39c9-11e9-8023-cdfb4fc7f913.jpg)  
 - [業績一覧](https://hirosasada.github.io/kenkyu/)  
 - [Google Scholar Citation](https://scholar.google.com/citations?user=GcsuKIUAAAAJ&hl=en)   
 - [Research Gate](https://www.researchgate.net/profile/Hironori_Sasada)  
 - Curriculum Vitae  
+  
+![book cover web](https://user-images.githubusercontent.com/47653058/53387325-bd617000-39c9-11e9-8023-cdfb4fc7f913.jpg)  
   
 **リンク**  
 - [北海道大学](https://www.hokudai.ac.jp)  
