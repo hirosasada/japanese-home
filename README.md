@@ -14,7 +14,9 @@
     - [『*The Evolution of the Japanese Developmental State*』(Routledge, 2012年)](https://read.amazon.com/kp/embed?asin=B0094GB17M&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_Ck6zCb1GPP3ZB)    
     - [『制度発展と政策アイディア』（木鐸社, 2011年）](https://www.amazon.co.jp/dp/4833224488)  
    
-![book cover web](https://user-images.githubusercontent.com/47653058/53387325-bd617000-39c9-11e9-8023-cdfb4fc7f913.jpg)   
+![book cover web](https://user-images.githubusercontent.com/47653058/53387325-bd617000-39c9-11e9-8023-cdfb4fc7f913.jpg)
+![book cover web 03](https://user-images.githubusercontent.com/47653058/53388374-382c8a00-39ce-11e9-8c54-2f65e959211f.jpg)
+![book cover web 04](https://user-images.githubusercontent.com/47653058/53388377-3bc01100-39ce-11e9-87bb-7e62fac41765.jpg)  
    
 **経歴**  
 - [学歴](https://hirosasada.github.io/rireki/)　　  
