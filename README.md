@@ -37,5 +37,5 @@
 - [北海道大学現代日本学プログラム課程](https://www.oia.hokudai.ac.jp/mjsp/) 
   
 [Top](https://hirosasada.github.io/japanese-home)↑  
-  
+<font color="White">Hironori Sasada Hiro Sasada Hokkaido University political science 佐々田博教 北海道大学 政治学</font>      
   
