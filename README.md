@@ -17,5 +17,5 @@
    
   
 [Top](https://hirosasada.github.io/japanese-home)↑  
-<font color="White">Hironori Sasada Hiro Sasada Hokkaido University political science 佐々田博教 北海道大学 政治学</font>       
+<font color="White">Hironori Sasada Hiro Sasada Hokkaido University political science 佐々田博教 北海道大学 政治学</font> 　      
   
