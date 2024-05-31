@@ -1,4 +1,4 @@
-*北海道大学 佐々田博教のウェブサイトは、[こちらに移転しました](https://sites.google.com/view/hirosasada-jp)。リンク先のサイトをご覧ください。*  
+*北海道大学 佐々田博教のウェブサイトは移転しました。リンク先のサイトをご覧ください。→　[新サイトへのリンク](https://sites.google.com/view/hirosasada-jp)*  
   
 **プロフィール**    
 - 所属・職位：  
